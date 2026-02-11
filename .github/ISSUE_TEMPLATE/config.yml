@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Search Existing Issues
+    url: https://github.com/terminallm-issues/.github/issues
+    about: Check if your issue has already been reported
