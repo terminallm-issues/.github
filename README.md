@@ -1,14 +1,15 @@
-# TerminaLLM
+# TerminaLLM Issue Tracker
 
-Public issue tracker for TerminaLLM — the mobile terminal for AI coding assistants.
+Bug reports and feature requests for [TerminaLLM](https://terminallm.app) — the mobile SSH terminal built for AI coding assistants.
 
-## Report an Issue
+## Reporting Issues
 
-- [Bug Report](https://github.com/terminallm-issues/.github/issues/new?template=bug_report.md)
-- [Feature Request](https://github.com/terminallm-issues/.github/issues/new?template=feature_request.md)
+- **Bug reports**: Use the [bug report template](https://github.com/terminallm-issues/.github/issues/new?template=bug_report.md)
+- **Feature requests**: Use the [feature request template](https://github.com/terminallm-issues/.github/issues/new?template=feature_request.md)
+- **Security vulnerabilities**: Please report via [GitHub Security Advisories](https://github.com/terminallm-issues/.github/security/advisories/new) (do not open public issues for security bugs)
 
-You can also report issues directly from the app: **Settings > Help > Report an Issue**.
+## About TerminaLLM
 
-## Security
+TerminaLLM is a mobile terminal app for iOS and Android, optimized for running AI coding assistants (Claude Code, Cursor, Aider) remotely via SSH. Features include session persistence, SFTP file management, voice commands, and an AI assistant.
 
-Please do not report security vulnerabilities through public issues. See [SECURITY.md](SECURITY.md) for responsible disclosure.
+Visit [terminallm.app](https://terminallm.app) for more information.
